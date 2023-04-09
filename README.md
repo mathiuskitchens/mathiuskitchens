@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathiuskitchens
 - 👀 I’m interested in Full-Stack Web Development
-- 🌱 I’m currently learning Figma, JavaScript, advanced CSS tools
+- 🌱 I’m currently learning React, Next.js, and API tools
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ...here, or by email at mathiuskitchens@gmail.com
 
