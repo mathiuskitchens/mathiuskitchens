@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathiuskitchens
-- 👀 I’m interested in Full-Stack Web Development
-- 🌱 I’m currently learning React, Express/Node.js, Mongoose and MongoDB
+- 👀 I’m interested in Full-Stack Web Development (Mostly MERN stack)
+- 🌱 I’m currently learning Go!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ...here, or by email at mathiuskitchens@gmail.com
 
