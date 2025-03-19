@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mathiuskitchens
 - 👀 I’m interested in Full-Stack Web Development 
-- 🌱 I’m currently learning Go!
-- 💞️ I’m looking to collaborate on anything!
+- 🌱 I’m currently learning Java!
+- 💞️ I’m looking to collaborate on anything Java!
 - 📫 How to reach me ...here, or by email at mathiuskitchens@gmail.com
 
 <!---
